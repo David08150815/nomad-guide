@@ -57,7 +57,7 @@ Nachdem du Dateien erstellt oder geändert hast und diese im nächsten Commit sp
 ## Commit erstellen
 
 ```bash
-git commit -m "Add initial project documentation"
+git commit -m "Add description"
 ```
 
 ### Was macht der Befehl?
@@ -79,6 +79,11 @@ Zum Beispiel:
 - Dokumentation ergänzt
 - Projektstruktur erstellt
 
+Beispiel:
+
+```bash
+git commit -m "Add initial project documentation"
+```
 
 ### Merksatz
 
