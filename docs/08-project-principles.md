@@ -1,4 +1,4 @@
-# PROJECT_PRINCIPLES.md
+# PROJECT-PRINCIPLES.md
 
 # Nomad Guide – Project Principles
 
