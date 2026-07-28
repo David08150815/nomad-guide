@@ -26,6 +26,13 @@ This document defines how the project is developed.
 - Test after every change
 - Keep the repository organized
 - Features are solutions. Problems come first.
+- Integrate before reinventing.
+- Traveller First
+- Simplicity
+- Encourage Discovery
+- Ecosystem over isolation.
+- Build less. Deliver more.
+- Technology should disappear behind the experience.
 
 ## Team Philosophy
 Nomad Guide is both a learning project and a real product.
