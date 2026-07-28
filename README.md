@@ -1,6 +1,6 @@
 # 🌍 Nomad Guide
 
-> Your personal travel companion for independent adventures.
+> Built by travellers, for travellers.
 
 ---
 
