@@ -25,6 +25,7 @@ This document defines how the project is developed.
 - One feature at a time
 - Test after every change
 - Keep the repository organized
+- Features are solutions. Problems come first.
 
 ## Team Philosophy
 Nomad Guide is both a learning project and a real product.
