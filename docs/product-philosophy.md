@@ -35,6 +35,8 @@ Every destination, every obstacle and every experience helps shape the product.
 
 Nomad Guide grows with every journey.
 
+Every trip makes the product a little better.
+
 ---
 
 # Traveller First
