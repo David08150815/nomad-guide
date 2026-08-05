@@ -22,13 +22,18 @@ If not, we should carefully reconsider whether it belongs in Nomad Guide.
 
 ---
 
+
 # Built by travellers, for travellers.
 
-Nomad Guide is created from real travel experiences.
+Nomad Guide is a travel companion that helps independent travellers make better decisions throughout their journey.
 
-The ideas behind the project are not invented in a meeting room—they originate from real journeys, real challenges and real adventures.
+It is built from real travel experiences—not assumptions.
 
-The project grows together with every new destination.
+The ideas behind the project are not invented in a meeting room. They are inspired by real journeys, real challenges and real adventures.
+
+Every destination, every obstacle and every experience helps shape the product.
+
+Nomad Guide grows with every journey.
 
 ---
 
