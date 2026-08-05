@@ -103,3 +103,5 @@ git commit -m "Add initial project documentation"
 - test: add expense unit tests
 
 - chore: update .gitignore
+# Neuen Datei erstellen
+- type nul > dateiname.md
