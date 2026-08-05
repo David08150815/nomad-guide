@@ -192,7 +192,34 @@ Before implementing any significant feature, ask:
 If several answers are "No", the feature probably does not belong in the current version.
 
 ---
+# Decision Support
 
+Nomad Guide is not built to provide as much information as possible.
+
+It is built to help travellers make better decisions.
+
+Instead of asking:
+
+> "Where is an ATM?"
+
+Nomad Guide should answer:
+
+> "Which ATM is the best choice for me right now?"
+
+The same principle applies to:
+
+- accommodations
+- dive centers
+- transportation
+- restaurants
+- activities
+- shopping
+- travel services
+
+The goal is not to overwhelm travellers with information,
+but to provide the right information at the right moment.
+
+---
 # Closing Thought
 
 Nomad Guide is not about travelling more.
